@@ -1,0 +1,6 @@
+*******************************************************
+Total deleted files count : 0 
+Duplicate files in the given Directory Test are : [] 
+
+Time taken for execution is: 0.007772922515869141 
+ *******************************************************

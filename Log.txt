@@ -1,0 +1,3 @@
+*******************************************************
+Duplicate files in the given Directory Test are : ['Test\\CommandLine1 - Copy.py', 'Test\\CommandLine1.py', 'Test\\DrectoryCheckSum.txt', 'Test\\DrectoryCheckSumDuplicate.txt'] 
+*******************************************************
